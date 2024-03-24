@@ -1,0 +1,308 @@
+Accordingly, Nietzsche’s reputation in the English-speaking world is now arguably the highest it’s ever been, and his place in philosophy’s canon looks assured.However, it wasn’t always this way. After suffering a mental breakdown in 1889 from which he never recovered, Nietzsche (and his works) came under the care of his sister, Elisabeth Förster-Nietzsche, who was a bigoted anti-Semite.Elisabeth warped Nietzsche’s unpublished notebooks and unfinished works (now collected in The Will to Power) into a bloodthirsty call to arms for nationalist Germany, which aligned to the blueprint for Hitler’s ‘superior’ Aryan race.For a long time, therefore, Nietzsche’s ideas were synonymous with those of Nazism.Thankfully, the truth of Elisabeth’s tampering emerged — as did letters and earlier works evidencing Nietzsche’s fierce opposition to nationalism and antisemitism.Following the Nazi defeat in World War II, efforts were made to sanitize Nietzsche’s name, not least by the philosopher, translator, and poet Walter Kaufmann.Kaufmann recognized that Nietzsche was majorly misunderstood in the English-speaking world, and set out on a long-term campaign to not only provide new English translations of all of Nietzsche’s works, but also guide readers in better understanding the profundity of his ideas.(For more on the key events of Nietzsche’s life and legacy, including his tragic descent into insanity, see our overview of Nietzsche’s life, insanity, and legacy, which places his philosophy in the context of his life and illness, ultimately suggesting that Nietzsche’s task in both his personal life and his wider philosophy were one and the same: to find meaning in suffering, to make recovery more predominant than resentment, and to establish a solution to the problem of nihilism.)
+
+Even enjoying a resurgence in popularity, however, Nietzsche’s philosophy remains commonly misunderstood, misread, and misappropriated by those from all over the political and philosophical spectrum, who wish to elevate their particular cause with the power of his rhetoric.
+
+With a range of thinking so widespread, and a style of writing so stunningly and wickedly provocative, it is perhaps no surprise that Nietzsche’s iconoclastic, hammering utterances — designed to jolt people out of presuppositions — can be so grossly taken out of context.
+
+Here is a thinker who not only changes his mind on key topics throughout his active philosophical period, but who at times suggests he doesn’t want to be understood, not to be purposefully oblique, but because he thinks his readers are not yet ready for what he has to say.
+
+Getting into Nietzsche, then — i.e. really understanding and appreciating his philosophy, rather than just a few of his most famous quotations — can be somewhat of a challenge.
+
+For, far from helping his readers by clearly laying out his ideas in rigid, structured form, Nietzsche prefers to challenge us by scattering his great ideas across his works — often offering only hints and winks about what he truly thinks, and occasionally contradicting himself or reevaluating earlier ideas.
+
+Nietzsche also primarily adopts an aphoristic writing style — presenting us with a numbered sequence of rather disconnected sentences and paragraphs across a whole range of different subjects, sometimes held together by a particular theme, sometimes not.
+
+There may be a paragraph from an 1881 work that aligns to something he then expands on in an 1887 work, for example.
+
+Nietzsche also writes in such a way whereby he assumes you’ve read everything he’s ever written — as well as every major Western thinker from the ancient pre-Socratic Greeks onwards.
+
+Given the quirks involved in reading him, selecting a ‘first’ Nietzsche book can be tricky. While they all contain diamonds, and while his writing style is always stunningly engaging, there is perhaps no ‘single’ work of his that stands out as an easy gateway to his ideas.
+
+That said, some are certainly better candidates than others.
+
+As we discuss below, his 1889 work Twilight of the Idols, for instance, is often recommended as a better starting point than most, for Nietzsche attempts to offer short summaries of his mature philosophy.
+
+The 1887 On the Genealogy of Morals, too, can be a more accessible first read than others, in that Nietzsche foregoes his aphoristic style for the production of three longer-form essays, making for a more conventional initial reading experience (though, for first-time Nietzsche readers, understanding the subject matter will most definitely be a challenge without the assistance of some secondary literature, the best of which we outline below).
+
+Perhaps the worst route into Nietzsche’s thinking, meanwhile, is the one most commonly taken: starting with his most famous book, Thus Spoke Zarathustra, written between 1883 and 1885.
+
+While Thus Spoke Zarathustra is a stunning literary achievement, it is not the best way to learn about Nietzsche’s ideas, for it is more a densely cryptic expression of them in poetic, lyrical form.
+
+Another common approach is to start with Nietzsche’s first book, The Birth of Tragedy — but this is also not recommended.
+
+While the germ for many of his later ideas can be found in The Birth of Tragedy, on the whole it is not representative of his most important contributions to philosophy, for Nietzsche’s style and ideas develop considerably in his later works.
+
+Taking into account all of the above, the below reading list consists of the best and most essential books for those looking to understand more about Nietzsche and his fascinating philosophy.
+
+It contains a mix of both primary and secondary literature, for although Nietzsche’s words always make for a brilliantly entertaining read themselves, tying together Nietzsche’s ideas — scattered as they are across his works — can be a real challenge.
+
+Indeed, if you’re interested in learning about Nietzsche as a first-time reader of his books, the power of his ideas is more accessible when contextualized by scholars whose life’s work has been dedicated to understanding him.
+
+If you want to understand how the life Nietzsche lived led to the production of his philosophy, this is the biography for you.
+
+Both an introduction to and a sustained commentary on Nietzsche’s moral philosophy, Brian Leiter’s 2002 book Nietzsche on Morality has become one of the most widely used and debated secondary sources on Nietzsche over the past two decades.
+
+Focusing on morality but touching on related topics too, Nietzsche on Morality is a solid overview and critique for anyone interested in Nietzsche’s philosophy.
+
+Straight from the programming trenches, The Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and you'll learn how to
+
+Fight software rot; Avoid the trap of duplicating knowledge; Write flexible, dynamic, and adaptable code; Avoid programming by coincidence; Bullet-proof your code with contracts, assertions, and exceptions; Capture real requirements; Test ruthlessly and effectively; Delight your users; Build teams of pragmatic programmers; and Make your developments more precise with automation. Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. Whether you're a new coder, an experienced programmer, or a manager responsible for software projects, use these lessons daily, and you'll quickly see improvements in personal productivity, accuracy, and job satisfaction. You'll learn skills and develop habits and attitudes that form the foundation for long-term success in your career. You'll become a Pragmatic Programmer.
+
+Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way.
+Noted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship . Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code on the fly into a book that will instill within you the values of a software craftsman and make you a better programmer but only if you work at it.
+What kind of work will you be doing? You'll be reading code - lots of code. And you will be challenged to think about what's right about that code, and what's wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft.
+Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code - of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and "smells" gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code.
+Readers will come away from this book understanding
+
+Widely considered one of the best practical guides to programming, Steve McConnell’s original code complete has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices—and hundreds of new code samples—illustrating the art and science of software construction. Capturing the body of knowledge available from research, academia, and everyday commercial practice, McConnell synthesizes the most effective techniques and must-know principles into clear, pragmatic guidance. No matter what your experience level, development environment, or project size, this book will inform and stimulate your thinking—and help you build the highest quality code.
+
+Literature is any collection of written work, but it is also used more narrowly for writings specifically considered to be an art form, especially prose, fiction, drama, poetry, and including both print and digital writing. In recent centuries, the definition has expanded to include oral literature, also known as orature much of which has been transcribed. Literature is a method of recording, preserving, and transmitting knowledge and entertainment, and can also have a social, psychological, spiritual, or political role.
+
+Literature, as an art form, can also include works in various non-fiction genres, such as biography, diaries, memoir, letters, and essays. Within its broad definition, literature includes non-fictional books, articles or other written information on a particular subject.
+
+Etymologically, the term derives from Latin literatura "learning, a writing, grammar", originally "writing formed with letters", from littera "letter". In spite of this, the term has also been applied to spoken or sung texts. Literature is often referred to synecdochically as "writing", especially creative writing, and poetically as "the craft of writing" (or simply "the craft"). Syd Field described his discipline, screenwriting, as "a craft that occasionally rises to the level of art."
+
+Developments in print technology have allowed an ever-growing distribution and proliferation of written works, which now include electronic literature.
+
+Definitions of literature have varied over time. In Western Europe, prior to the 18th century, literature denoted all books and writing. Literature can be seen as returning to older, more inclusive notions, so that cultural studies, for instance, include, in addition to canonical works, popular and minority genres. The word is also used in reference to non-written works: to "oral literature" and "the literature of preliterate culture".
+
+A value judgment definition of literature considers it as consisting solely of high quality writing that forms part of the belles-lettres ("fine writing") tradition. An example of this is in the 1910–1911 Encyclopædia Britannica, which classified literature as "the best expression of the best thought reduced to writing".
+
+The use of the term "literature" here is a little problematic because of its origins in the Latin littera, "letter", essentially writing. Alternatives such as "oral forms" and "oral genres" have been suggested but the word literature is widely used.
+
+Australian Aboriginal culture has thrived on oral traditions and oral histories passed down through tens of thousands of years. In a study published in February 2020, new evidence showed that both Budj Bim and Tower Hill volcanoes erupted between 34,000 and 40,000 years ago. Significantly, this is a "minimum age constraint for human presence in Victoria", and also could be interpreted as evidence for the oral histories of the Gunditjmara people, an Aboriginal Australian people of south-western Victoria, which tell of volcanic eruptions being some of the oldest oral traditions in existence. An axe found underneath volcanic ash in 1947 had already proven that humans inhabited the region before the eruption of Tower Hill.
+
+Oral literature is an ancient human tradition found in "all corners of the world". Modern archaeology has been unveiling evidence of the human efforts to preserve and transmit arts and knowledge that depended completely or partially on an oral tradition, across various cultures:
+
+The Judeo-Christian Bible reveals its oral traditional roots; medieval European manuscripts are penned by performing scribes; geometric vases from archaic Greece mirror Homer's oral style. () Indeed, if these final decades of the millennium have taught us anything, it must be that oral tradition never was the other we accused it of being; it never was the primitive, preliminary technology of communication we thought it to be. Rather, if the whole truth is told, oral tradition stands out as the single most dominant communicative technology of our species as both a historical fact and, in many areas still, a contemporary reality.
+
+William Shakespeare is known for 150 sonnets. A sonnet is composed of fourteen lines with a rhyming scheme. The Bard has shown that poem composition can be done in such a manner while still maintaining the integrity of the thought. Where most people can expel a thought that rhymes (one need only to think of nursery rhymes like “Mary had a little lamb”), William Shakespeare has done so with careful attention to the subject matter and the overall flow and thought of the poem. In his very first sonnet we can see how his ability to do so has rightly earned him the esteemed position of the status quo.
+
+Compared to the diversity of some of the later poets, one may think that William Shakespeare’s poems are a bit lacking in their subject scope. However, one would do well to consider the time era from whence these poems were written. During this era, literary professionals were hard pressed to make a living. Plays (for which William Shakespeare is best known) were looked upon more as a hobby than a professional career and so the money for such works was not substantial to live off of. Poems were considered to be something for the nobles and upper society. Being that parchment was also considered to be a sacred material at that time (mainly due to the scarcity to secure large quantities at one time), the lines of the poems written had to be catered specifically to sell. What better to sell than a love sonnet during the Elizabethan Era?
+
+Unknown to a great many, are the two narrative poems of William Shakespeare. These two poems were written around the same time period (1593 and 1594) of his career. It could be concluded that these two poems were composed as a test. Being that there are no other narratives it can also be concluded that William Shakespeare did not see the merit in composing such lengthy poems and therefore focused on where money could be made. It is only in the later years after an artist is gone that the cultural world seems to embrace the artistry of one’s work. It would appear that such rings true with these two poems.
+
+The earlier of the two poems, William Shakespeare truly shows that he can present a story in poetic form. The poem was constructed for as he put it “so noble a god-father”, the earl of Southampton. Again, we see that there is the strong story of love and conflict which tends to radiate throughout his work. However, another key aspect of William Shakespeare’s work can be seen here and that is his use of the mythological. Where Venus is a common mythological deity, one will find that other such beings are introduced not only in his sonnets and poems but also within his plays. With such, here lies the tie with the ancient muses and the Elizabethan poets.
+
+Not uncommon to William Shakespeare, this poem focuses on a murder and the pursuit of lover. One can see the clear association with his play Hamlet (written around 1590) as well as Macbeth (written around 1603) within this work. Being as the poem was written early in his career, one may conclude that this poem served as a starting point for the later plays. It would be foolish for the seasoned reader not to conclude that such associations with these later works were deliberately constructed from the format and content of this work.
+
+Those which are looking for a poet to aspire to would do well to follow the writings of William Shakespeare. The sonnets allow the poet to practice tactful word play while the narrative poems provide us with an exercise in intricate storytelling.
+
+Readers of poetry would be greatly benefited from reading the sonnets of Shakespeare. Many of the “modern” poets have read and in some cases mimicked his work very closely. As a serious poet, one cannot abandon the building blocks for which the poetic area was built. Being that William Shakespeare has earned the title “The Bard”, we would all be wise to listen with earnestness to the words he has written.
+
+Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do. On the one hand the standard of right and wrong, on the other the chain of causes and effects, are fastened to their throne. They govern us in all we do, in all we say, in all we think: every effort we can make to throw off our subjection, will serve but to demonstrate and confirm it. In words a man may pretend to abjure their empire: but in reality he will remain subject to it all the while. The principle of utility recognises this subjection, and assumes it for the foundation of that system, the object of which is to rear the fabric of felicity by the hands of reason and of law.
+
+People might dress it up with words like ‘duty’ or ‘virtue’, but when you get right down to the fundamental drivers of why we act the way we do, ultimately we all want more pleasure, and we all want less pain. Happiness for each of us is simply constituted by the aggregate balance of the former over the latter.
+
+The strength of his utilitarianism, Bentham thinks, is that it accepts this fact of human nature, and incorporates it into a secular ethical system: doing the right thing means performing so-called ‘hedonic calculus’ to ensure we act in ways that bring about more pleasure than pain.
+
+Bentham’s philosophy was built on by the 19th-century thinkers John Stuart Mill and Henry Sidgwick, both of whom developed classical utilitarianism with further clarifications on how we might calculate the right thing to do.
+
+Sidgwick, for instance, emphasized the importance of impartiality in our calculations — and this is where utilitarianism departs from Epicureanism.
+
+For, while Epicurus also wants us to weigh pain and pleasure and perform ‘hedonic calculus’, he advises us to do so from our own perspectives — i.e. by asking ‘what acts will lead to the best long-term consequences for my mental health?’
+
+We must subtract our personal biases or investments away from the situations we encounter, and simply add our own happiness or suffering to the communal pile when considering the right thing to do.
+
+Utilitarianism has since developed beyond the ‘classical’ theories of Bentham, Mill, and Sidgwick, and there are more branches than the hedonistic variety.
+
+Some of those branches, for instance, emphasize preferences rather than pleasure; some suggest agent-relative weightings; and some soften the maximal demand of doing the most good to doing ‘enough’ good.
+
+Regardless of the differences in emphasis that can be found in the movement, the important takeaway is that utilitarianism is a philosophy that claims morality depends entirely on outcomes.
+
+To work out the best path forward, utilitarians say, we must consider not which action we think is ‘inherently’ good or virtuous, but which action will produce the best results — which will lead to more ‘good’ in the world (pleasure, happiness, preference-fulfillment) and less ‘bad’ (pain or suffering).
+
+The only thing you will learn from all this will be to want still more. The desires implanted by nature [i.e. for food, water, human connection] have a limit, but those born from false opinion have no way of reaching an end
+
+If we measure ourselves according to external status symbols, we will never be satisfied ― for where does it end?
+
+The upshot, then, is that if we are to possibly feel at peace in life, we cannot allow ourselves to be enslaved by desires that are impossible to fulfill.
+
+Of course, we need money and resources to survive; Seneca is not denying this. His point is simply not to confuse ‘survive’ with ‘thrive’.
+
+If we have enough resources so that our natural desires (and those of our dependents) are reliably met, then why bother seeking more? What’s it all actually for?
+
+If we dedicate our (only) lives to the accumulation of status and resources, we climb aboard a golden treadmill, frantically moving but not actually going anywhere.
+
+We cannot stand prepared for death if we are just beginning to live. We must instead make sure that we have already lived enough. And no one could think this about himself if he is forever involved in starting to live. You should not suppose that such people are few in number: almost everyone is like this. Indeed, they begin to live only when it is time to stop. If you think this strange, I will add something which will surprise you even more: some people leave off living before they have even begun
+
+If the purpose of philosophy is to prepare us for death, as many of the ancients thought, then we can view Seneca’s words as a challenge.
+
+Will we vainly, blindly strut upon the gilded treadmill of wealth and fame and resource accumulation, ever grasping forward but with no real destination in mind?
+
+Or will we climb off, and with eyes wide open, appreciate the richness, the beauty, the joy of life that is right here before us, ready for us to claim it?
+
+The paper describes some recent developments in neural networks and discusses the applicability of neural networks in the development of a machine that mimics the human brain. The paper mentions a new architecture, the pulsed neural network that is being considered as the next generation of neural networks. The paper also explores the use of memristors in the development of a brain-like computer called the MoNETA. A new model, infinite dimensional neural networks, are a recent development in the area of advanced neural networks. The paper concludes that the need of neural networks in the development of human-like technology is essential and may be non-expendable for it.
+
+Neural networks are capable of handling a wide variety of the type of problems which involve finding trends in large quantities of data. They are better suited than traditional computer architecture to handling problems that humans are naturally good at and which computers are not able to handle very well. For example, pattern recognition, generalizing, clustering, etc., are problems which humans handle better than computers and so do neural networks. Research is also focused in the direction of developing new models of neural networks that are better at solving these problems. Certain problems remain to be solved
+
+Wolfgang Maass has identified three generations of past and current artificial neural network research and makes the following observations. The first generation has the McCulloch-Pitts neuron (also known as a perceptron or a threshold-gate) as the basic unit of computation. Models of the first generation, such as the multi-layer perceptron, use digital input and output, either binary or bipolar. A Boolean function can be computed by using a multi-layer perceptron with a single hidden layer. The second generation has as its basis computation units (neurons) that use an activation function of a continuous set of possible output values. Commonly, these activation functions are the sigmoid, or the hyperbolic tangent. Second generation neural networks can also compute any boolean function by using a threshold. Second generation network are capable of computing certain boolean functions with fewer neurons than first generation neural networks. Further, second generation networks with one hidden layer can approximate any continuous, analog function. Also, second generation networks support learning algorithms based on gradient descent, such as error back-propagation.
+
+Kateryna did not listen
+Neither father nor mother,
+I fell in love with the moskalika,
+As the heart knew.
+I fell in love with a young man
+I went to kindergarten
+While yourself, your destiny
+There was an attack.
+
+Gave birth to mother son
+In the green forest,
+Gave you brown eyes
+And black eyebrows.
+I was waving Chinese
+Blessed all the saints,
+May all things be holy
+Talan-share was sent.
+"Let's go you mother of God
+This grace,
+All that mother
+The date doesn’t matter.”
+Before the sun went down I took water,
+I bathed in the periwinkle,
+It swayed until midnight,
+I sang until the light:
+
+You lead us, as you led us long ago
+To victories, speeding up time and further.
+When the hearts of millions melt into one -
+This heart will be yours, dear Stalin!
+
+The cities are buzzing, and the sun is shining again and again
+A dove rises for us in the distance.
+The motherland sends its love to you,
+Like every heart full of you.
+
+Not in vain, no, with battles the edge of the grime -
+Gone are the days of poverty and bad weather.
+In the roar of factories and farms
+Accept this song of the happy people.
+
+Receive it in this sunny time,
+So that he thunders about you clearly.
+You give us light, lead us to the future,
+A beacon of ages and the glory of millions.
+
+Whether singing or step of manifestations,
+or the roar of engines from above
+in the noise of warm acacias,
+always, always between us you are.
+
+Is the train flowing in the noise of the cedars
+and flew over the bridges with a roar,
+is the battle thundering for the homeland, -
+always, always between us you are.
+
+Does the traveler walk in the field,
+and the sky changes and the sun, -
+lips whisper carelessly
+your name.
+
+Or over the northern ocean,
+where the glow of joyful flowers
+republic titans fly, —
+always, always between us you are.
+
+As with the daylight of the ear of corn,
+as with gentle sight the sight of fire,
+your name is clearly confused
+with the name of your associate.
+
+Angry, inspired and winged,
+like a call of fire in battles,
+with the name of an associate and a brother
+your name.
+
+My thoughts, my thoughts
+Woe to me with you!
+Why did they become on paper
+Sad rows?
+Why didn't the wind blow you away?
+In the steppe, like dust?
+Why didn't the disaster put you to sleep?
+How is your child?
+
+Because disaster brought you to the world for laughter,
+They watered the tears Why didn't they drown,
+Not taken to the sea, not washed in the field?
+People wouldn't ask what hurts me,
+They wouldn't ask why I curse fate,
+What do I need in the world? "Does nothing", -
+They wouldn't say it for a laugh
+
+Tasks vary depending on your area of specialism. For example, clinical scientists working in microbiology will be involved in preventing, diagnosing and controlling the spread of infections, whereas those working in manufacturing may be involved in quality control, checking for signs of contamination.
+
+The work is generally laboratory-based in pathology departments or diagnostic laboratories in hospitals, although there are opportunities in other types of work environments. You'll usually need to wear protective clothing such as gloves, coat and safety glasses.
+
+You'll often work as part of a small team on projects and will usually be responsible for managing your own workload.
+
+Contract and temporary work is available at graduate and technician level within a number of sectors.
+
+Research work can provide more variety than that of routine identification or monitoring, which may be more structured.
+
+You may need to travel during the day for meetings or on-site visits. You may also travel throughout the UK and abroad to attend conferences and take part in collaborative research.
+
+Courses such as biological sciences or applied biology provide a wide-ranging background prior to having to make choices about specialist areas.
+
+Some employers look for a postgraduate qualification such as a Masters or PhD. To work as a microbiology researcher in a university, you'll need a PhD in a relevant area of microbiology. Integrated postgraduate Masters qualifications such as the MBiol, MBiolSci or MSci may be particularly useful if you want to go onto a PhD.
+
+To work as a clinical scientist in microbiology, you need to successfully complete the NHS Scientist Training Programme (STP). This leads to eligibility to apply for a Certificate of Attainment from the Academy for Healthcare Science, which allows registration as a clinical scientist with the Health & Care Professions Council (HCPC). As part of the training, you'll complete an MSc in Clinical Science (Microbiology - Infection Sciences). For full details about applying for the STP, see the National School of Healthcare Science (NSHCS). There are separate scientist training schemes in Scotland and Northern Ireland.
+
+If you don't have a degree, it may be possible to enter the profession in a laboratory technician role and gain experience and further qualifications to become a microbiologist. You may also be able to get into a career in microbiology via a higher or degree apprenticeship.
+
+Having experience in a laboratory is useful when applying for jobs. If your degree doesn't include a year out in industry or research, consider taking a research project over the summer. Some companies provide funding to support research work in laboratories over the summer. Contact your careers service for information on these opportunities and other internships.
+
+Student membership of a professional body such as the Microbiology Society or the SfAM will show your commitment and provide valuable networking and career development opportunities.
+
+Details of pharmaceutical companies you can contact about work experience or work shadowing opportunities are available on The Association of the British Pharmaceutical Industry (ABPI) website. Search pharmaceutical recruiters.
+
+You can also contact your local hospital laboratory about work experience or work shadowing opportunities.
+
+Find out more about the different kinds of work experience and internships that are available.
+
+The career path you choose often relates to the subjects you studied in school and found particularly interesting. Math and science are two subjects that all students encounter, and those who excel in these areas can find a number of career opportunities. Careers in math and science vary widely, although most offer the potential for advancement and fulfillment. In this article, we discuss the importance of math and science careers as well as what jobs are available to those who excel in and enjoy these subjects.
+
+Math and science are two subjects that apply to many different aspects of our lives. Math is the study of space, quantity, change and structure. Although that may seem abstract, it is a subject that strives for definitive solutions and answers to problems as well as absolutes. Those who feel drawn to finding smarter and faster solutions to common problems often do well in math courses. To better understand the world, handle aspects of running and operating a business, and validate what we believe, we need math.
+
+Science is another area that students focus on throughout their education. Studying science can also provide insights into the way the world functions and exists as well as help individuals learn how to break complex topics and systems into smaller, more manageable parts. When learning science, students can understand how to recognize cause and effect relationships, troubleshoot problems and come up with solutions.
+
+Although some areas of science are more technical in nature, others can be applied to today's modern world. For example, a degree in computer science provides the knowledge needed to identify problems with a machine and come up with a solution for each issue. Scientists work in nearly every industry to problem-solve, develop hypotheses and create solutions to common problems.
+
+Those who want to work in math or science can find fulfilling career opportunities that allow them to apply their knowledge and skills in a practical manner. When studying math and science, students may also develop their analytical skills, helping them to analyze issues, perform research, develop plans and timelines, and draw conclusions from the information they find when researching a topic. Math courses help people learn how to make calculations for making measurements or performing financial tasks.
+
+Math and science are important subjects that shape the way people solve problems, research topics and develop solutions. In the workplace, you may find yourself using your math and science skills more than you expected to when you were studying these subjects in school. If you excel in either or both of these subjects, you may want to look for a career that allows you to apply the knowledge and skills more effectively in your daily tasks.
+
+A cartographer designs, studies, distributes and produces conventional and digital maps, spreadsheets, charts and diagrams for use in the public and commercial sectors. Additional duties may include assessing satellite and aerial images; working with clients, external contacts and information providers; and confirming the accuracy of existing maps.
+
+Does your home have any pet doors or gates for dogs, cats, or other animals? Some automatic pet doors can be set up to allow only certain animals through. These doors can help you control which pets are able to go outside alone or which ones have access to specific food, litter boxes, or toys. But why buy such a door when you can make one? In this project you will build your own automatic pet door that works with a magnetic collar tag.
+
+If you've ever played or watched basketball, you might already know that your chances of successfully banking a shot on the backboard are higher in certain positions on the basketball court, even when keeping the distance from the hoop the same. Ever wondered what would account for this? Do you think you could actually explain this using geometry? This science project will put your knowledge of geometry and algebra to good use.
+
+If you have ever tried to hit a target (such as a trash can) with a wad of paper, you know that aim is everything. But it is not always easy to get it right every time! Missing is not that big a deal with a wad of paper, but what if you were in an invading army in the Middle Ages, using a catapult to hurl huge stones and knock down castle walls?
+
+Most of us take it for granted that math works—that scientists can devise formulas to describe subatomic events or that engineers can calculate paths for spacecraft. We accept the view, initially espoused by Galileo, that mathematics is the language of science and expect that its grammar explains experimental results and even predicts novel phenomena. The power of mathematics, though, is nothing short of astonishing. Consider, for example, Scottish physicist James Clerk Maxwell’s famed equations: not only do these four expressions summarize all that was known of electromagnetism in the 1860s, they also anticipated the existence of radio waves two decades before German physicist Heinrich Hertz detected them. Very few languages are as effective, able to articulate volumes’ worth of material so succinctly and with such precision. Albert Einstein pondered, “How is it possible that mathematics, a product of human thought that is independent of experience, fits so excellently the objects of physical reality?”
+
+As a working theoretical astrophysicist, I encounter the seemingly “unreasonable effectiveness of mathematics,” as Nobel laureate physicist Eugene Wigner called it in 1960, in every step of my job. Whether I am struggling to understand which progenitor systems produce the stellar explosions known as type Ia supernovae or calculating the fate of Earth when our sun ultimately becomes a red giant, the tools I use and the models I develop are mathematical. The uncanny way that math captures the natural world has fascinated me throughout my career, and about 10 years ago I resolved to look into the issue more deeply.
+
+At the core of this mystery lies an argument that mathematicians, physicists, philosophers and cognitive scientists have had for centuries: Is math an invented set of tools, as Einstein believed? Or does it actually exist in some abstract realm, with humans merely discovering its truths? Many great mathematicians—including David Hilbert, Georg Cantor and the group known as Nicolas Bourbaki—have shared Einstein’s view, associated with a school of thought called Formalism. But other illustrious thinkers—among them Godfrey Harold Hardy, Roger Penrose and Kurt Gödel—have held the opposite view, Platonism.
+
+This debate about the nature of mathematics rages on today and seems to elude an answer. I believe that by asking simply whether mathematics is invented or discovered, we ignore the possibility of a more intricate answer: both invention and discovery play a crucial role. I posit that together they account for why math works so well. Although eliminating the dichotomy between invention and discovery does not fully explain the unreasonable effectiveness of mathematics, the problem is so profound that even a partial step toward solving it is progress.
+
+Mathematics is unreasonably effective in two distinct ways, one I think of as active and the other as passive. Sometimes scientists create methods specifically for quantifying real-world phenomena. For example, Isaac Newton formulated calculus for the purpose of capturing motion and change, breaking them up into infinitesimally small frame-by-frame sequences. Of course, such active inventions are effective; the tools are, after all, made to order. What is surprising, however, is their stupendous accuracy in some cases. Take, for instance, quantum electrodynamics, the mathematical theory developed to describe how light and matter interact. When scientists use it to calculate the magnetic moment of the electron, the theoretical value agrees with the most recent experimental value—measured at 1.00115965218073 in the appropriate units in 2008—to within a few parts per trillion!
+
+Even more astonishing, perhaps, mathematicians sometimes develop entire fields of study with no application in mind, and yet decades, even centuries, later physicists discover that these very branches make sense of their observations. Examples of this kind of passive effectiveness abound. French mathematician Évariste Galois, for example, developed group theory in the early 1800s for the sole purpose of determining the solvability of polynomial equations. Very broadly, groups are algebraic structures made up of sets of objects (say, the integers) united under some operation (for instance, addition) that obey specific rules (among them the existence of an identity element such as 0, which, when added to any integer, gives back that same integer). In 20th-century physics, this rather abstract field turned out to be the most fruitful way of categorizing elementary particles—the building blocks of matter. In the 1960s physicists Murray Gell-Mann and Yuval Ne’eman independently showed that a specific group, referred to as SU(3), mirrored a behavior of subatomic particles called hadrons—a connection that ultimately laid the foundations for the modern theory of how atomic nuclei are held together.
+
+The study of knots offers another beautiful example of passive effectiveness. Mathematical knots are similar to everyday knots, except that they have no loose ends. In the 1860s Lord Kelvin hoped to describe atoms as knotted tubes of ether. That misguided model failed to connect with reality, but mathematicians continued to analyze knots for many decades merely as an esoteric arm of pure mathematics. Amazingly, knot theory now provides important insights into string theory and loop quantum gravity—our current best attempts at articulating a theory of spacetime that reconciles quantum mechanics with general relativity. Similarly, English mathematician Hardy’s discoveries in number theory advanced the field of cryptography, despite Hardy’s earlier proclamation that “no one has yet discovered any warlike purpose to be served by the theory of numbers.” And in 1854 Bernhard Riemann described non-Euclidean geometries—curious spaces in which parallel lines converge or diverge. More than half a century later Einstein invoked those geometries to build his general theory of relativity.
+
+If you saved the model using a different TensorFlow version than the one you're currently using to load it, there might be compatibility issues. Try installing the same TensorFlow version used for saving the model.
+
+There might be a corruption in the model file itself, causing missing weight information. Consider trying to reload the model or recreate it if you have the original code.
+
+Check the TensorFlow version used during model saving and install the same version for loading. You can usually find this information in your training script or environment details.
+
+If you have the original code used to create the model, consider recreating it from scratch. This ensures all layers and weights are defined correctly for the current environment.
+
+Null object pattern is a design pattern that is used to represent a null value with an object. It is a way to avoid null reference exceptions by providing a default object that does nothing. It is a way to provide a default behavior in case data is not available.
+
+Stored Procedures are created to perform one or more DML operations on Database. It is nothing but the group of SQL statements that accepts some input in the form of parameters and performs some task and may or may not returns a value.
